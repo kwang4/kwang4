@@ -1,4 +1,4 @@
- ✨You made it to Kai-En's github wooo! ✨
+ ✨You made it to Kwang's github wooo! ✨
  
  Here is mostly game content for Rimworld, planning on updating it with C++ project eta *son*
 
