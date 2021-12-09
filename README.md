@@ -1,6 +1,6 @@
  ✨You made it to Kwang's github wooo! ✨
  
- Here is mostly game content for Rimworld, planning on updating it with C++ project eta *son*
+ Here is mostly game content for Rimworld, planning on updating it with a neat C++ project *soon*
 
 <!--
 **kwang4/kwang4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
